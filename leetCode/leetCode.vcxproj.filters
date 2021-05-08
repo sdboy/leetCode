@@ -21,9 +21,21 @@
     <ClCompile Include="ReplaceDigits.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="TwoSum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MinimumDeviation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ReplaceDigits.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TwoSum.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumDeviation.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

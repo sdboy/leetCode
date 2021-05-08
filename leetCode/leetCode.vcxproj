@@ -140,10 +140,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="LeetCode.cpp" />
+    <ClCompile Include="MinimumDeviation.cpp" />
     <ClCompile Include="ReplaceDigits.cpp" />
+    <ClCompile Include="TwoSum.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="MinimumDeviation.h" />
     <ClInclude Include="ReplaceDigits.h" />
+    <ClInclude Include="TwoSum.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,6 +1,6 @@
 #include "ReplaceDigits.h"
 
-std::string replaceDigits(std::string s)
+std::string ReplaceDigits::replaceDigits(std::string s)
 {
   int lenth = s.length() / 2;
   for (int i = 0; i < lenth; i++)
